@@ -1,4 +1,3 @@
-# supermall
 # 仿移动端蘑菇街商城
 
 ## Project setup
