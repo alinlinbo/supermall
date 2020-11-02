@@ -1,6 +1,6 @@
-# supermall
-
-## Project setup
+＃超级商场
+仿移动端蘑菇街商城
+##项目设置
 ```
 npm install
 ```
